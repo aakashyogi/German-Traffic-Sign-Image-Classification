@@ -1,1 +1,3 @@
-# German-Traffic-Sign-Image-Classification
+# German Traffic Sign Image Classification
+
+# 99% Validation accuracy 
